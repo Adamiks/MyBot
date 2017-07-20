@@ -1,1 +1,1 @@
-web: gunicorn bot:app
+web: gunicorn damp-bastion-27743.wsgi --log-file -
